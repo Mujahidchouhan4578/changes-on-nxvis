@@ -14,3 +14,4 @@
     |   └── App.jsx
     |   └── .env
     
+and it is only Krashak-frontend not /src it is mistaken
